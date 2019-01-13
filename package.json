@@ -1,0 +1,23 @@
+{
+  "name": "trafficbooster",
+  "version": "1.0.0",
+  "description": "Traffic Boosting Script Toolkit",
+  "main": "referral_traffic.js",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EarnestVoice/TrafficBooster.git"
+  },
+  "keywords": [
+    "Traffic",
+    "Boosting"
+  ],
+  "author": "EarnestVoice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EarnestVoice/TrafficBooster/issues"
+  },
+  "homepage": "https://github.com/EarnestVoice/TrafficBooster#readme"
+}
